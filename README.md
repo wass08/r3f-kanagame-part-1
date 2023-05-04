@@ -2,10 +2,9 @@
 
 [Demo](https://codesandbox.io/p/github/wass08/r3f-kanagame-part-1)
 
-[Video tutorial](https://youtu.be/_KlIkgvadmc)
+[Video tutorial](https://youtu.be/zwNF1-lsia8)
 
-[Starter pack](https://github.com/wass08/r3f-wawatmos-starter)
-[Part 1 Code](https://github.com/wass08/r3f-wawatmos-part1)
+[Starter pack](https://github.com/wass08/r3f-vite-starter)
 
 
 ### 3D Model credits
